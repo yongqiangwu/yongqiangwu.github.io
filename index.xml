@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://genway.com.cn/</link>
-    <description>Recent content on </description>
+    <title>MeiK&#39;s blog</title>
+    <link>https://meik2333.com/</link>
+    <description>Recent content on MeiK&#39;s blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://genway.com.cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <atom:link href="https://meik2333.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
